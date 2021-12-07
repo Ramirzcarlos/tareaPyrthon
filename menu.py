@@ -86,7 +86,7 @@ def menuModulos():
                 print("Gracias por usar mi programa")
                 break
             else:
-                print("Opcion no valida !!")
+                print("Opcion no valida, intente nuevamente !!")
             
 def menuIngreso():
     continuar = True
